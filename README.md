@@ -6,8 +6,7 @@ Fichero de pruebas.
 
 vale.
 
-<<<<<<< HEAD
 vale 2
-=======
+vale.
+
 vale de nueva rama
->>>>>>> refs/heads/Nueva_Rama
